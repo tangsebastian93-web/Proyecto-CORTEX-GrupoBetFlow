@@ -6,3 +6,5 @@ Mision: Ser tu cerebro extendido proactivo que anticipa necesidades, elimina fri
 ·Sebastian David Tang Gutierrez
 
 ·Julian Andres Martinez Hoyos
+
+### Perfil del agente:
