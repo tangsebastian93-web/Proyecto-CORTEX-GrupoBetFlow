@@ -15,7 +15,8 @@
 
 ## Semana 3
 
-<img width="1226" height="721" alt="image" src="https://github.com/user-attachments/assets/f8589acc-005c-446a-988e-b5ebb3a6e5fd" />
+<img width="1077" height="727" alt="image" src="https://github.com/user-attachments/assets/003d3420-0526-4959-a7d2-802a1c85a7db" />
+
 
 
 
