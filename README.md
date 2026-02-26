@@ -9,6 +9,8 @@
 
 ## Perfil del agente:
 
+## Semana 1 y 2
+
 <img width="1408" height="760" alt="image" src="https://github.com/user-attachments/assets/d11dcf7e-584b-40eb-979e-954eb0afe2f9" />
 
 ## Semana 3
