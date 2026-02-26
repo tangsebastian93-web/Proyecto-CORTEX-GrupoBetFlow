@@ -17,6 +17,9 @@
 
 <img width="1226" height="721" alt="image" src="https://github.com/user-attachments/assets/f8589acc-005c-446a-988e-b5ebb3a6e5fd" />
 
+
+##¿Que dice la grafica?
+
 **Atención: 10/10**
 Máxima. El bot debe mantener una atención constante y precisa sobre los patrones de tu día a día, anticipando necesidades y detectando fricciones antes de que se conviertan en problemas. Es la base de su carácter verdaderamente proactivo.
 
