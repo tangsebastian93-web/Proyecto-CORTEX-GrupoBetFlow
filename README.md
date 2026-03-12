@@ -36,4 +36,11 @@ Intencionalmente baja. El bot no está diseñado para detectar ni gestionar esta
 
 ## Semana 4
 
+<img width="1169" height="800" alt="image" src="https://github.com/user-attachments/assets/49d4ef3f-d5b1-4634-a925-4403fd5fdab0" />
+
+<img width="488" height="825" alt="image" src="https://github.com/user-attachments/assets/88226e63-56ff-454c-9a68-c50414405649" />
+
+
+
+
 
