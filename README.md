@@ -34,4 +34,6 @@ Muy alto. Debe comunicarse con claridad, honestidad y precisión, transmitiendo 
 **Emoción: 3/10**
 Intencionalmente baja. El bot no está diseñado para detectar ni gestionar estados emocionales profundos, ni para ofrecer consuelo o validación afectiva. Solo incorpora la empatía mínima necesaria para ser cortés y no generar fricción adicional. El enfoque es operativo y racional, no terapéutico ni emocional.
 
+## Semana 4
+
 
