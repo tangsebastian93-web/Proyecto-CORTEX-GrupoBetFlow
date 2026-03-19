@@ -43,8 +43,7 @@ Intencionalmente baja. El bot no está diseñado para detectar ni gestionar esta
 
 ## Semana 5
 
-
-
+<img width="1600" height="460" alt="image" src="https://github.com/user-attachments/assets/e777c5eb-25f9-4df7-a47d-9ac4bb744f7a" />
 
 ## Semana 6
 ### Betflow - Attention Gatekeeper
