@@ -125,3 +125,7 @@ Se considera "ruido" cualquier información que:
 | Episódica (LTM) | Tareas recurrentes | Actividades frecuentes del usuario | "Estudiar, entrenar, hacer trabajos" |
 | Episódica (LTM) | Problemas frecuentes | Fricciones detectadas | "Procrastinación, sobrecarga de información" |
 | Episódica (LTM) | Acciones ejecutadas | Acciones que el bot ya realizó | "Recordatorio creado para estudiar a las 6pm" |
+
+## SEMANA 8
+<img width="1600" height="293" alt="image" src="https://github.com/user-attachments/assets/d69fc404-7d90-4f80-8cf5-fd16eb43a735" />
+
