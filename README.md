@@ -109,6 +109,7 @@ Se considera "ruido" cualquier información que:
  ##  3. Arquitectura de Memoria
 
 ### Memoria a Largo Plazo (LTM)
+> Esta tabla representa la memoria a largo plazo (LTM) del asistente Betflow, equivalente a su "disco duro", donde se almacena información permanente necesaria para la personalización, toma de decisiones y anticipación de necesidades del usuario.
 
 | Tipo de Memoria | Categoría de Datos | Descripción | Ejemplo de Entrada |
 |----------------|------------------|------------|-------------------|
