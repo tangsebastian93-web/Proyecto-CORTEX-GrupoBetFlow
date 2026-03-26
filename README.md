@@ -104,7 +104,9 @@ Se considera "ruido" cualquier información que:
 - Optimizar toma de decisiones
 - Enfocar energía en lo que realmente importa
 
-  ## 🧠 Base de Conocimiento – Betflow (Memoria a Largo Plazo)
+  
+## SEMANA 7
+  ## Base de Conocimiento – Betflow (Memoria a Largo Plazo)
 
 | Categoría | Tipo de Memoria | Descripción | Ejemplos | Uso del Bot |
 |----------|----------------|------------|----------|-------------|
