@@ -106,25 +106,21 @@ Se considera "ruido" cualquier información que:
 
   
 ## SEMANA 7
-  ## Base de Conocimiento – Betflow (Memoria a Largo Plazo)
+ ##  3. Arquitectura de Memoria
 
-| Categoría | Tipo de Memoria | Descripción | Ejemplos | Uso del Bot |
-|----------|----------------|------------|----------|-------------|
-| Reglas del Sistema | Semántica | Principios fijos que definen cómo funciona Betflow | Reducción de ruido, priorización de acción, claridad | Determinar cómo responde el bot |
-| Definición de Ruido | Semántica | Qué información debe ser ignorada o filtrada | Redundancia, lenguaje emocional innecesario, información irrelevante | Filtrar mensajes del usuario |
-| Reglas de Atención | Semántica | Normas para procesar información eficientemente | Priorizar verbos de acción, última frase, eliminar redundancia | Optimizar análisis de input |
-| Objetivo del Sistema | Semántica | Propósito central del bot | Reducir ruido mental, aumentar claridad, mejorar decisiones | Guiar todas las respuestas |
-| Perfil del Usuario | Episódica | Información persistente del usuario | Preferencias, hábitos, estilo de comunicación | Personalizar respuestas |
-| Historial de Decisiones | Episódica | Decisiones pasadas del usuario | Elecciones anteriores, acciones ejecutadas | Anticipar decisiones futuras |
-| Patrones de Comportamiento | Episódica | Hábitos detectados en el tiempo | Horarios, rutinas, distracciones frecuentes | Anticipar necesidades |
-| Contexto Personal | Episódica | Información relevante del entorno del usuario | Estudio, trabajo, proyectos activos | Ajustar recomendaciones |
-| Conocimiento General | Semántica | Información universal necesaria | Leyes, fórmulas, conceptos | Responder preguntas técnicas |
-| Sistema de Prioridades | Semántica | Cómo decide qué es importante | Acción > información > contexto secundario | Ordenar respuestas |
-| Estilo de Comunicación | Semántica | Forma en la que el bot responde | Claro, directo, sin relleno emocional | Mantener coherencia |
-| Restricciones Emocionales | Semántica | Límites del rol emocional del bot | Empatía mínima, no terapéutico | Evitar respuestas emocionales innecesarias |
-| Acciones Automatizadas | Episódica | Acciones que el bot ha ejecutado | Recordatorios, decisiones previas | Evitar repetición o mejorar eficiencia |
-| Fricciones Detectadas | Episódica | Problemas recurrentes del usuario | Distracciones, sobrecarga, indecisión | Reducir obstáculos |
+### Memoria a Largo Plazo (LTM)
 
-
-
-
+| Tipo de Memoria | Categoría de Datos | Descripción | Ejemplo de Entrada |
+|----------------|------------------|------------|-------------------|
+| Semántica (LTM) | Métodos de productividad | Técnicas para optimizar enfoque y toma de decisiones | "Método Pomodoro: 25 min trabajo, 5 min descanso" |
+| Semántica (LTM) | Reglas de priorización | Criterios para decidir qué es importante | "Priorizar tareas con impacto directo en objetivos" |
+| Semántica (LTM) | Conceptos de eficiencia | Estrategias para reducir carga cognitiva | "Eliminar tareas redundantes o sin valor" |
+| Semántica (LTM) | Conocimiento general | Información útil para resolver problemas | "Ley de Pareto: 80% resultados vienen de 20% acciones" |
+| Semántica (LTM) | Estructuras de planificación | Formas de organizar tareas y objetivos | "Lista de tareas priorizada por impacto" |
+| Episódica (LTM) | Perfil del usuario | Información personal relevante | "Usuario: estudiante, enfocado en productividad" |
+| Episódica (LTM) | Objetivos del usuario | Metas definidas por el usuario | "Mejorar enfoque y reducir distracciones" |
+| Episódica (LTM) | Historial de decisiones | Decisiones tomadas anteriormente | "Decidió estudiar en bloques de 2 horas" |
+| Episódica (LTM) | Hábitos y rutinas | Patrones de comportamiento del usuario | "Se distrae frecuentemente con redes sociales" |
+| Episódica (LTM) | Tareas recurrentes | Actividades frecuentes del usuario | "Estudiar, entrenar, hacer trabajos" |
+| Episódica (LTM) | Problemas frecuentes | Fricciones detectadas | "Procrastinación, sobrecarga de información" |
+| Episódica (LTM) | Acciones ejecutadas | Acciones que el bot ya realizó | "Recordatorio creado para estudiar a las 6pm" |
