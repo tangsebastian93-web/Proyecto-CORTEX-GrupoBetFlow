@@ -104,6 +104,25 @@ Se considera "ruido" cualquier información que:
 - Optimizar toma de decisiones
 - Enfocar energía en lo que realmente importa
 
+  ## 🧠 Base de Conocimiento – Betflow (Memoria a Largo Plazo)
+
+| Categoría | Tipo de Memoria | Descripción | Ejemplos | Uso del Bot |
+|----------|----------------|------------|----------|-------------|
+| Reglas del Sistema | Semántica | Principios fijos que definen cómo funciona Betflow | Reducción de ruido, priorización de acción, claridad | Determinar cómo responde el bot |
+| Definición de Ruido | Semántica | Qué información debe ser ignorada o filtrada | Redundancia, lenguaje emocional innecesario, información irrelevante | Filtrar mensajes del usuario |
+| Reglas de Atención | Semántica | Normas para procesar información eficientemente | Priorizar verbos de acción, última frase, eliminar redundancia | Optimizar análisis de input |
+| Objetivo del Sistema | Semántica | Propósito central del bot | Reducir ruido mental, aumentar claridad, mejorar decisiones | Guiar todas las respuestas |
+| Perfil del Usuario | Episódica | Información persistente del usuario | Preferencias, hábitos, estilo de comunicación | Personalizar respuestas |
+| Historial de Decisiones | Episódica | Decisiones pasadas del usuario | Elecciones anteriores, acciones ejecutadas | Anticipar decisiones futuras |
+| Patrones de Comportamiento | Episódica | Hábitos detectados en el tiempo | Horarios, rutinas, distracciones frecuentes | Anticipar necesidades |
+| Contexto Personal | Episódica | Información relevante del entorno del usuario | Estudio, trabajo, proyectos activos | Ajustar recomendaciones |
+| Conocimiento General | Semántica | Información universal necesaria | Leyes, fórmulas, conceptos | Responder preguntas técnicas |
+| Sistema de Prioridades | Semántica | Cómo decide qué es importante | Acción > información > contexto secundario | Ordenar respuestas |
+| Estilo de Comunicación | Semántica | Forma en la que el bot responde | Claro, directo, sin relleno emocional | Mantener coherencia |
+| Restricciones Emocionales | Semántica | Límites del rol emocional del bot | Empatía mínima, no terapéutico | Evitar respuestas emocionales innecesarias |
+| Acciones Automatizadas | Episódica | Acciones que el bot ha ejecutado | Recordatorios, decisiones previas | Evitar repetición o mejorar eficiencia |
+| Fricciones Detectadas | Episódica | Problemas recurrentes del usuario | Distracciones, sobrecarga, indecisión | Reducir obstáculos |
+
 
 
 
