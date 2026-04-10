@@ -132,53 +132,82 @@ Se considera "ruido" cualquier información que:
 # SEMANA 9
 # Betflow - Memory Flow System
 
-## Flujo de Recuperación
+## Contexto
 
-1. Entrada del usuario
-   - Se recibe el mensaje
-
-2. Filtro de atención (Gatekeeper)
-   - Se elimina ruido
-   - Se identifica la intención principal
-
-3. Clasificación
-   - Se determina si es:
-     - Pregunta
-     - Acción
-     - Información relevante
-
-4. Búsqueda en memoria (LTM)
-   - Se recupera contexto relevante previo
-   - Se prioriza información reciente o importante
-
-5. Construcción de respuesta
-   - Se combina nueva información con memoria
-
-6. Respuesta final
-   - Clara, directa y accionable
+Betflow es un asistente inteligente diseñado para optimizar la atención, la memoria y la toma de decisiones.
+Su sistema de memoria trabaja en conjunto con el Gatekeeper (filtro de atención) para garantizar que solo la información relevante sea procesada y utilizada.
 
 ---
 
-## Regla de Olvido
+## Flujo de Recuperación
 
-- Si pasan más de 10 minutos sin interacción:
-  → Se limpia la memoria temporal (RAM)
+1. Entrada del usuario
+   - Se recibe información o una pregunta
 
-- Si el usuario cambia completamente de tema:
-  → Se reinicia el contexto
+2. Filtro de Atención (Gatekeeper)
+   - Elimina ruido
+   - Extrae la intención principal
 
-- Si la información no se usa en 3 interacciones:
-  → Se elimina o pierde prioridad
+3. Clasificación de Intención
+   - Se identifica si el mensaje es:
+     - Pregunta
+     - Acción
+     - Contexto relevante
 
-- Mantener solo:
-  → Objetivo actual
-  → Última instrucción relevante
+4. Búsqueda en Memoria (LTM - Memoria a Largo Plazo)
+   - Se recupera información relevante previa
+   - Se prioriza el contexto útil y reciente
+
+5. Construcción de Respuesta
+   - Se combina la memoria con la nueva información
+
+6. Respuesta Final
+   - Clara
+   - Directa
+   - Accionable
+
+---
+
+## Gestión de Memoria y Olvido
+
+Betflow no utiliza únicamente reglas de tiempo para olvidar información, sino un sistema adaptativo basado en relevancia y uso.
+
+### Reglas:
+
+- Eliminación de ruido en memoria:
+  Se descarta información que no contribuye al objetivo actual.
+
+- Prioridad por uso:
+  La información que no se utiliza en varias interacciones pierde relevancia o se elimina.
+
+- Cambio de contexto:
+  Si el usuario cambia de tema, el sistema reinicia el contexto anterior.
+
+- Enfoque en objetivo:
+  Se mantiene únicamente la información clave para la toma de decisiones.
+
+- Optimización cognitiva:
+  Se evita la sobrecarga manteniendo la memoria limpia y eficiente.
+
+---
+
+## Relación con el Gatekeeper
+
+El sistema de memoria trabaja directamente con el Gatekeeper:
+
+- El Gatekeeper filtra la información de entrada
+- La memoria decide qué conservar y qué descartar
+
+Esto permite que Betflow funcione como un sistema cognitivo eficiente.
 
 ---
 
 ## Objetivo
 
-Optimizar el uso de memoria para mantener claridad, evitar sobrecarga y mejorar la toma de decisiones.
+- Mantener claridad mental
+- Reducir sobrecarga cognitiva
+- Mejorar la toma de decisiones
+- Optimizar el uso de la memoria del sistema
 
 <img width="1061" height="840" alt="image" src="https://github.com/user-attachments/assets/bdda5250-aef2-4a0c-8c12-f5b423da8fac" />
 
