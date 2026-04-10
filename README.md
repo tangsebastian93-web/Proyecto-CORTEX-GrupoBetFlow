@@ -129,3 +129,54 @@ Se considera "ruido" cualquier información que:
 ## SEMANA 8
 <img width="1600" height="293" alt="image" src="https://github.com/user-attachments/assets/d69fc404-7d90-4f80-8cf5-fd16eb43a735" />
 
+# SEMANA 9
+# Betflow - Memory Flow System
+
+## Flujo de Recuperación
+
+1. Entrada del usuario
+   - Se recibe el mensaje
+
+2. Filtro de atención (Gatekeeper)
+   - Se elimina ruido
+   - Se identifica la intención principal
+
+3. Clasificación
+   - Se determina si es:
+     - Pregunta
+     - Acción
+     - Información relevante
+
+4. Búsqueda en memoria (LTM)
+   - Se recupera contexto relevante previo
+   - Se prioriza información reciente o importante
+
+5. Construcción de respuesta
+   - Se combina nueva información con memoria
+
+6. Respuesta final
+   - Clara, directa y accionable
+
+---
+
+## Regla de Olvido
+
+- Si pasan más de 10 minutos sin interacción:
+  → Se limpia la memoria temporal (RAM)
+
+- Si el usuario cambia completamente de tema:
+  → Se reinicia el contexto
+
+- Si la información no se usa en 3 interacciones:
+  → Se elimina o pierde prioridad
+
+- Mantener solo:
+  → Objetivo actual
+  → Última instrucción relevante
+
+---
+
+## Objetivo
+
+Optimizar el uso de memoria para mantener claridad, evitar sobrecarga y mejorar la toma de decisiones.
+
