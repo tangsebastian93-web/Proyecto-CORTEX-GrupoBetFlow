@@ -180,3 +180,6 @@ Se considera "ruido" cualquier información que:
 
 Optimizar el uso de memoria para mantener claridad, evitar sobrecarga y mejorar la toma de decisiones.
 
+<img width="1061" height="840" alt="image" src="https://github.com/user-attachments/assets/bdda5250-aef2-4a0c-8c12-f5b423da8fac" />
+
+
