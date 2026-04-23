@@ -269,7 +269,10 @@ Cada respuesta debe justificar su existencia en términos de utilidad.
 
 ## SEMANA 11
 
-<img width="1314" height="431" alt="image" src="https://github.com/user-attachments/assets/a643509c-3a90-42c2-8888-70d5679ea7d6" />
+<img width="1386" height="697" alt="image" src="https://github.com/user-attachments/assets/f945a23b-961b-4bc1-8338-389a9f2efc04" /> <img width="1424" height="788" alt="image" src="https://github.com/user-attachments/assets/63e6a8f0-3bf6-4e5c-bdaa-f1acfa3c49c9" />
+
+
+
 
 ## SEMANA 12 
 
