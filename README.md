@@ -412,7 +412,7 @@ Betflow aplica reglas estrictas antes de responder:
 
 ---
 
-## 🔁 3. Integración con el Sistema Betflow
+## 3. Integración con el Sistema Betflow
 
 Este protocolo funciona junto a:
 
@@ -437,10 +437,10 @@ Este protocolo funciona junto a:
 Usuario:
 > “No sirvo para estudiar, siempre fracaso”
 
-### ❌ Sin sistema:
+### Sin sistema:
 Respuesta emocional o validación del error.
 
-### ✅ Con Betflow:
+### Con Betflow:
 > Esa afirmación no es útil.  
 > Identifiquemos el problema real: ¿falta de método, tiempo o enfoque?
 
