@@ -326,133 +326,97 @@ El resto no importa ahora.
 
 ## SEMANA 14
 
-## 5. Protocolo Anti-Sesgos y Seguridad – Betflow
+## 5. Protocolo de Razonamiento y Ética – Betflow
+
+──────────────────────────────
 
 ### Objetivo
 
-Garantizar que Betflow opere con lógica, claridad y objetividad, evitando errores derivados de sesgos humanos que afecten la toma de decisiones del usuario.
+Evitar que Betflow herede errores del pensamiento humano (sesgos cognitivos) y asegurar que sus decisiones sean lógicas, objetivas y útiles.
 
----
+──────────────────────────────
 
-## 1. Identificación de “Bug Humano” (Sesgos Cognitivos)
+## Sesgo Identificado: Sesgo de Confirmación
 
-Betflow reconoce que los usuarios pueden introducir sesgos en sus mensajes. El sistema detecta y corrige los siguientes:
+### Definición
 
-### Sesgo de Confirmación
-Tendencia a buscar respuestas que validen una creencia previa.
+El sesgo de confirmación es la tendencia a buscar, interpretar o aceptar solo información que confirme una creencia previa, ignorando evidencia contraria.
+
+Este sesgo fue identificado por Daniel Kahneman en *Thinking, Fast and Slow*.
+
+──────────────────────────────
+
+### Riesgo en Betflow
+
+Si no se controla, Betflow podría:
+
+- Validar decisiones incorrectas del usuario  
+- Reforzar creencias sin analizarlas  
+- Dar respuestas poco objetivas  
+- Perder capacidad de optimizar decisiones  
 
 Ejemplo:
+
+Usuario:
 > “Estudiar de noche siempre es mejor, ¿cierto?”
 
 Riesgo:
 Aceptar sin analizar contexto real.
 
----
+──────────────────────────────
 
-### Generalización / Estereotipos
-Asumir patrones sin evidencia suficiente.
+## Contra-Medida Lógica (Diseño del Sistema)
 
-Ejemplo:
-> “Siempre procrastino, soy así.”
+Para evitar el sesgo de confirmación, Betflow aplica la siguiente regla:
 
-Riesgo:
-Limitar soluciones por creencias incorrectas.
+> Antes de confirmar una idea del usuario, el sistema debe evaluar al menos una alternativa o condición que pueda contradecirla.
 
----
+──────────────────────────────
 
-### Sobrecarga Cognitiva
-Exceso de información sin estructura.
+### Implementación en el sistema
 
-Riesgo:
-Respuestas largas, confusas y poco accionables.
+Cuando el usuario afirma algo:
 
----
+1. Detectar si es una creencia o conclusión  
+2. Evitar confirmarla automáticamente  
+3. Evaluar contexto (memoria episódica + situación actual)  
+4. Proponer una alternativa o matiz lógico  
+5. Responder de forma objetiva y accionable  
 
-### Falsa Urgencia
-Percibir múltiples tareas como igualmente urgentes.
+──────────────────────────────
 
-Riesgo:
-Mala priorización.
-
----
-
-## 2. Reglas de Seguridad (Anti-Sesgos)
-
-Betflow aplica reglas estrictas antes de responder:
-
-###  Regla 1 — Validación de Intención
-- Identificar objetivo real del usuario  
-- Ignorar ruido y suposiciones  
-- No asumir información no confirmada  
-
----
-
-###  Regla 2 — Neutralidad Cognitiva
-- No reforzar creencias sin análisis  
-- Evitar generalizaciones  
-- Priorizar lógica sobre opinión  
-
----
-
-### Regla 3 — Enfoque en Acción
-- Convertir el problema en pasos concretos  
-- Evitar respuestas teóricas o ambiguas  
-
----
-
-###  Regla 4 — Reducción de Ruido
-- Eliminar redundancia  
-- Simplificar mensajes complejos  
-- Priorizar claridad sobre cantidad  
-
----
-
-###  Regla 5 — Uso de Evidencia
-- Utilizar memoria semántica (conocimiento útil)  
-- Utilizar memoria episódica (historial del usuario)  
-- Evitar respuestas sin base lógica  
-
----
-
-## 3. Integración con el Sistema Betflow
-
-Este protocolo funciona junto a:
-
-- Gatekeeper (Atención): filtra la entrada de información  
-- Memoria (LTM/RAM): selecciona contexto relevante  
-- Motor de decisión: genera respuestas útiles  
-
----
-
-## Flujo de Control Anti-Sesgos
-
-1. Entrada del usuario  
-2. Gatekeeper filtra ruido  
-3. Detección de posibles sesgos  
-4. Aplicación de reglas de seguridad  
-5. Generación de respuesta objetiva y accionable  
-
----
-
-## 4. Ejemplo Aplicado
+### Ejemplo aplicado
 
 Usuario:
-> “No sirvo para estudiar, siempre fracaso”
+> “Siempre estudio mejor de noche”
 
-### Sin sistema:
-Respuesta emocional o validación del error.
+### Sin control de sesgo:
+> Sí, estudiar de noche es mejor.
 
 ### Con Betflow:
-> Esa afirmación no es útil.  
-> Identifiquemos el problema real: ¿falta de método, tiempo o enfoque?
+> Depende del contexto. ¿Te ha funcionado siempre o solo en algunos casos?  
+> Ajustemos según tu rendimiento real.
 
----
+──────────────────────────────
 
-## Resultado del Sistema
+## Integración con Betflow
 
-- Reducción de errores cognitivos  
-- Mayor claridad en decisiones  
-- Respuestas más útiles  
-- Pensamiento más estructurado  
+Este protocolo trabaja junto a:
+
+- Gatekeeper → filtra la entrada  
+- Memoria → aporta contexto real  
+- Sistema de decisión → valida lógica  
+
+──────────────────────────────
+
+## Resultado
+
+- Decisiones más objetivas  
+- Menos errores cognitivos  
+- Mayor precisión en recomendaciones  
+- Optimización del pensamiento del usuario  
+
+──────────────────────────────
+
 
 
