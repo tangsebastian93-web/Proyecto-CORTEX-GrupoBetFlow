@@ -329,9 +329,6 @@ El resto no importa ahora.
 <img width="927" height="814" alt="image" src="https://github.com/user-attachments/assets/fa622e85-6ba2-41b2-956e-ae4c497933f8" />
 
 ---
-<img width="593" height="730" alt="image" src="https://github.com/user-attachments/assets/3de8155a-43a1-4c57-b1ec-edcce429a365" />
-
----
 <img width="654" height="818" alt="image" src="https://github.com/user-attachments/assets/4146cc4d-a035-4e83-b889-5bd9a8e2ad42" />
 
 
