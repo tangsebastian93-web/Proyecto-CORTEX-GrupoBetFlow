@@ -273,7 +273,7 @@ Cada respuesta debe justificar su existencia en términos de utilidad.
 
 <img width="1386" height="697" alt="image" src="https://github.com/user-attachments/assets/f945a23b-961b-4bc1-8338-389a9f2efc04" /> 
 
-
+---
 <img width="1424" height="788" alt="image" src="https://github.com/user-attachments/assets/63e6a8f0-3bf6-4e5c-bdaa-f1acfa3c49c9" />
 
 
