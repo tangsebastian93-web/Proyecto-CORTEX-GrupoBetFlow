@@ -328,13 +328,13 @@ El resto no importa ahora.
 
 ## 5. Protocolo de Razonamiento y Ética – Betflow
 
-──────────────────────────────
+
 
 ### Objetivo
 
 Evitar que Betflow herede errores del pensamiento humano (sesgos cognitivos) y asegurar que sus decisiones sean lógicas, objetivas y útiles.
 
-──────────────────────────────
+
 
 ## Sesgo Identificado: Sesgo de Confirmación
 
@@ -344,7 +344,6 @@ El sesgo de confirmación es la tendencia a buscar, interpretar o aceptar solo i
 
 Este sesgo fue identificado por Daniel Kahneman en *Thinking, Fast and Slow*.
 
-──────────────────────────────
 
 ### Riesgo en Betflow
 
@@ -363,7 +362,7 @@ Usuario:
 Riesgo:
 Aceptar sin analizar contexto real.
 
-──────────────────────────────
+
 
 ## Contra-Medida Lógica (Diseño del Sistema)
 
@@ -371,7 +370,7 @@ Para evitar el sesgo de confirmación, Betflow aplica la siguiente regla:
 
 > Antes de confirmar una idea del usuario, el sistema debe evaluar al menos una alternativa o condición que pueda contradecirla.
 
-──────────────────────────────
+
 
 ### Implementación en el sistema
 
@@ -383,7 +382,7 @@ Cuando el usuario afirma algo:
 4. Proponer una alternativa o matiz lógico  
 5. Responder de forma objetiva y accionable  
 
-──────────────────────────────
+
 
 ### Ejemplo aplicado
 
@@ -397,7 +396,7 @@ Usuario:
 > Depende del contexto. ¿Te ha funcionado siempre o solo en algunos casos?  
 > Ajustemos según tu rendimiento real.
 
-──────────────────────────────
+
 
 ## Integración con Betflow
 
@@ -407,7 +406,7 @@ Este protocolo trabaja junto a:
 - Memoria → aporta contexto real  
 - Sistema de decisión → valida lógica  
 
-──────────────────────────────
+
 
 ## Resultado
 
@@ -416,7 +415,7 @@ Este protocolo trabaja junto a:
 - Mayor precisión en recomendaciones  
 - Optimización del pensamiento del usuario  
 
-──────────────────────────────
+---
 
 
 
