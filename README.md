@@ -332,19 +332,14 @@ El resto no importa ahora.
 <img width="654" height="818" alt="image" src="https://github.com/user-attachments/assets/4146cc4d-a035-4e83-b889-5bd9a8e2ad42" />
 
 
-
-
-
 ## SEMANA 14
 
+
 ## 5. Protocolo de Razonamiento y Ética – Betflow
-
-
 
 ### Objetivo
 
 Evitar que Betflow herede errores del pensamiento humano (sesgos cognitivos) y asegurar que sus decisiones sean lógicas, objetivas y útiles.
-
 
 
 ## Sesgo Identificado: Sesgo de Confirmación
@@ -428,5 +423,142 @@ Este protocolo trabaja junto a:
 
 ---
 
+## SEMANA 15
+
+<img width="1319" height="865" alt="image" src="https://github.com/user-attachments/assets/ac5941f5-e02f-40d6-bb5f-729cb1ca38d5" />
+
+---
+<img width="1165" height="704" alt="image" src="https://github.com/user-attachments/assets/00d7f56b-5611-44ee-9287-9360c2c46671" />
+
+
+
+
+
+
+## 6. Dry Run y Debugging Lógico – Betflow
+
+---
+
+### Objetivo
+
+Probar el razonamiento lógico de Betflow simulando casos reales para verificar si el sistema llega a soluciones coherentes, útiles y accionables.
+
+El objetivo es detectar posibles fallos de lógica antes de programar el sistema.
+
+---
+
+# Caso de Prueba (Dry Run)
+
+## Entrada del Usuario
+
+> “Tengo examen mañana, tareas pendientes, sueño y estrés. No sé qué hacer.”
+
+---
+
+### Recorrido del Sistema
+
+## 1. Gatekeeper (Filtro de Atención)
+
+El sistema analiza el mensaje y elimina ruido emocional o redundante.
+
+### Detecta:
+- examen mañana  
+- tareas pendientes  
+- saturación mental  
+- falta de prioridad  
+
+### Ignora:
+- dramatización innecesaria  
+- redundancia emocional  
+
+---
+
+## 2. Clasificación de Prioridad
+
+Betflow evalúa impacto y urgencia.
+
+### Resultado:
+Examen mañana = máxima prioridad
+
+### Resultado:
+tareas secundarias = prioridad baja temporal
+
+---
+
+## 3. Consulta de Memoria
+
+### Memoria Semántica:
+- Pomodoro mejora enfoque
+- Priorizar reduce sobrecarga
+
+### Memoria Episódica:
+- Usuario suele saturarse con múltiples tareas
+- Rinde mejor cuando divide actividades
+
+---
+
+## 4. Motor de Decisión
+
+Betflow convierte el problema en una acción concreta.
+
+### Respuesta generada:
+
+> Detecto múltiples frentes abiertos.
+> La prioridad real es el examen de mañana.
+>
+> Haz esto:
+>
+> 1. 90 minutos de estudio
+> 2. descanso corto
+> 3. revisar tareas después
+>
+> Empieza por el tema más difícil.
+
+---
+
+### Debugging Lógico
+
+### Posible Bug Detectado
+
+Problema:
+El sistema podría intentar resolver todas las tareas al mismo tiempo.
+
+Consecuencia:
+- saturación
+- pérdida de enfoque
+- mala priorización
+
+---
+
+### Corrección Aplicada
+
+Nueva regla lógica:
+
+> Si existen múltiples tareas y una tiene urgencia temporal crítica, Betflow debe priorizar una sola acción principal antes de continuar.
+
+---
+
+### Resultado Final
+
+Después de la corrección:
+
+- el sistema prioriza correctamente
+- evita sobrecarga cognitiva
+- genera una respuesta clara y útil
+- mantiene coherencia con la identidad de Betflow
+
+---
+
+### Conclusión
+
+El Dry Run permitió validar que Betflow puede:
+
+- filtrar ruido
+- priorizar correctamente
+- usar memoria contextual
+- generar acciones concretas
+- corregir errores de razonamiento
+
+---
 
 
