@@ -670,6 +670,12 @@ Todos trabajan para alcanzar una única meta:
 > Convertir complejidad en claridad.
 
 ──────────────────────────────
+# SEMANA 17
+
+<img width="1174" height="1076" alt="image" src="https://github.com/user-attachments/assets/dd2b802a-920c-4002-9aea-486fc963c9ab" />
+
+
+──────────────────────────────
 # SEMANA 18
 
 ──────────────────────────────
